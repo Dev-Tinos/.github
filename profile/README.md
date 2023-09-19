@@ -22,20 +22,20 @@
 ```
 
 ### 프론트 엔드
-#### 프론트엔드-Deemo [이동하기]("https://github.com/Dev-Tinos/JSGames-Frontend-Deemo")
+#### 프론트엔드-Deemo [이동하기](https://github.com/Dev-Tinos/JSGames-Frontend-Deemo)
 
 맴버 : 
 기술 스택 : React
 ...
 
-#### 프론트엔드-BugO [이동하기]("https://github.com/Dev-Tinos/JSGames-Backend-BugO")
+#### 프론트엔드-BugO [이동하기](https://github.com/Dev-Tinos/JSGames-Backend-BugO)
 
 맴버 : 
 기술 스택 : React
 ...
 
 ### 백엔드
-#### 백엔드 메인[이동하기]("https://github.com/Dev-Tinos/JSGames-Backend-Main")
+#### 백엔드 메인[이동하기](https://github.com/Dev-Tinos/JSGames-Backend-Main)
 
 
 기술 스택 : Java-Spring
