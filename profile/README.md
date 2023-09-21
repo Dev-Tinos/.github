@@ -28,14 +28,14 @@
 기술 스택 : React
 ...
 
-#### 프론트엔드-BugO [이동하기](https://github.com/Dev-Tinos/JSGames-Backend-BugO)
+#### 프론트엔드-BugO [이동하기](https://github.com/Dev-Tinos/JSGames-Frontend-BugO)
 
 맴버 : 
 기술 스택 : React
 ...
 
 ### 백엔드
-#### 백엔드 메인[이동하기](https://github.com/Dev-Tinos/JSGames-Backend-Main)
+#### 백엔드 메인 [이동하기](https://github.com/Dev-Tinos/JSGames-Backend-Main)
 
 
 기술 스택 : Java-Spring
