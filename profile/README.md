@@ -21,15 +21,6 @@
   -- 프론트엔드-BugO
 ```
 
-### 프론트 엔드
-#### 프론트엔드-Deemo 
-
-[사이트 방문하기](http://deemo-games.s3-website.ap-northeast-2.amazonaws.com/)
-[레포지토리로 이동하기](https://github.com/Dev-Tinos/JSGames-Frontend-Deemo)
-
-맴버 : 
-기술 스택 : React
-...
 
 #### 프론트엔드-BugO 
 
@@ -45,6 +36,16 @@
 
 [사이트 방문하기](http://remomory.shop:81/)
 
+
+맴버 : 
+기술 스택 : React
+...
+
+### 프론트 엔드
+#### 프론트엔드-Deemo 
+
+[사이트 방문하기](http://deemo-games.s3-website.ap-northeast-2.amazonaws.com/)
+[레포지토리로 이동하기](https://github.com/Dev-Tinos/JSGames-Frontend-Deemo)
 
 맴버 : 
 기술 스택 : React
