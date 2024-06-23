@@ -24,7 +24,7 @@
 
 #### 프론트엔드-BugO 
 
-[사이트 방문하기](http://dinogmaes-bugo.s3-website.ap-northeast-2.amazonaws.com/)
+[사이트 방문하기](http://tino.tasty-site.com/)
 [레포지토리로 이동하기](https://github.com/Dev-Tinos/JSGames-Frontend-BugO)
 
 
